@@ -68,7 +68,6 @@ p {
   font-family: 'Fira Sans', sans-serif;
   font-weight: 800;
   letter-spacing: -20px;
-  mix-blend-mode: overlay;
   position: relative;
   transition: top ease 0.1s;
   transition-delay: 2s;
