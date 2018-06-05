@@ -142,8 +142,8 @@ ul li {
     height:106px;
   }
   .icon{
-    /* width: auto; */
-    /* height: 100px; */
+    width: 100px;
+    height: 100px;
   }
 }
 
